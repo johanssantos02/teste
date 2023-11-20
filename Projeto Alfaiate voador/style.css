@@ -1,0 +1,25 @@
+p{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: larger;
+}
+body{
+    background-color: #0E1D73;
+    color: #DAC2F2;
+}
+img{
+    border-radius: 6px;
+    width: 400px;
+    margin-left: 35%;
+}
+.videos{
+    margin-left: 30%;
+    width: 300px;
+}
+.vf{
+    display: flex;
+    flex-direction: row;
+}
+h1{
+margin-left: 23%;
+
+}
